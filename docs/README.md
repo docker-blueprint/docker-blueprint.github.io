@@ -5,7 +5,7 @@
     </a>
 </div>
 
-Welcome to the documentation page `docker-blueprint` - a tool which
+Welcome to the documentation page `docker-blueprint` - a tool that
 helps you build and share modular _ephemeral_ development environments based
 [docker](https://docs.docker.com/get-started/) & [docker-compose](https://docs.docker.com/compose/).
 
