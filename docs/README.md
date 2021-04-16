@@ -40,6 +40,9 @@ docker-blueprint new php --env laravel --with mysql redis
 
 <!-- tabs:end -->
 
+?> **PRO TIP:** You can use short version of `docker-blueprint` - `dob` in order
+to save keystrokes.
+
 Better yet, `docker-blueprint` makes working with a containerized development
 environment a breeze - blurring the line between files on your work machine
 and runtime environment inside the container!
