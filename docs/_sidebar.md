@@ -2,3 +2,4 @@
 - [Getting Started](/getting-started/index.md)
 - [Workflow](/workflow/index.md)
 - [Commands](/commands/index.md)
+- [Changelog](/CHANGELOG.md)
