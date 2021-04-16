@@ -1,3 +1,10 @@
+<div class="has-text-centered">
+    <a class="pure-button"
+       href="/#/getting-started/index">
+       Skip to the 'Getting Started' Section
+    </a>
+</div>
+
 Welcome to the documentation page `docker-blueprint` - a tool which
 helps you build and share modular _ephemeral_ development environments based
 [docker](https://docs.docker.com/get-started/) & [docker-compose](https://docs.docker.com/compose/).
