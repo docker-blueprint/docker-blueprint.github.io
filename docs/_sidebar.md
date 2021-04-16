@@ -1,2 +1,3 @@
 - [Introduction](/)
 - [Getting Started](/getting-started/index.md)
+- [Workflow](/workflow/index.md)
