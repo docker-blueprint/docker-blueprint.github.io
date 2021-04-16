@@ -9,7 +9,7 @@ Using blueprint commands you can make interaction with the service easier by
 hiding away the complex implementation details and instead providing a simple
 and user friendly command-line interface to your blueprint.
 
-Moreover, since blueprint commands are a part of the blueprint itself, they can be
+Moreover, since blueprint commands are a part of the blueprint itself, they will be
 be conditionally enabled only with specific modules.
 
 ---
