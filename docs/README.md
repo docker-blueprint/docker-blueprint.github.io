@@ -1,7 +1,7 @@
 <div class="has-text-centered">
     <a class="pure-button"
        href="/#/getting-started/index">
-       Skip to the 'Getting Started' Section
+       Skip to the 'Getting Started' section
     </a>
 </div>
 
