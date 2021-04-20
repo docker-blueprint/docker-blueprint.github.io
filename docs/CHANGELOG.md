@@ -6,6 +6,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.6.1-beta] - 20-04-2021
 
+### Added
+- Added `upgrade` command to update used blueprint version
+
 ### Updated
 - Fix module add/remove commands not updating containers
 - Silence helper scripts by default
