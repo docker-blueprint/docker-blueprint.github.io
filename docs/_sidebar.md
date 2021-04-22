@@ -3,4 +3,5 @@
 - [Workflow](/workflow.md)
 - [Commands](/commands.md)
   - [run](/commands/run.md)
+  - [upgrade](/commands/upgrade.md)
 - [Changelog](/CHANGELOG.md)
