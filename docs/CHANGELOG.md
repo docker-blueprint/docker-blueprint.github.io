@@ -4,6 +4,21 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.6.1-beta] - 22-04-2021
+
+### Added
+- Added `upgrade` command to update used blueprint version
+- Guided installation
+
+### Updated
+- Fix module add/remove commands not updating containers
+- Silence helper scripts by default
+- Sync after up scripts
+
+### Fixed
+- Sync after scripts have been run after `up` command finishes
+- Always refresh containers after building them
+
 ## [0.6.0-beta] - 18-04-2021
 
 ### Added
